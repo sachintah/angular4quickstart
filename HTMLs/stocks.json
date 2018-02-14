@@ -1,0 +1,7 @@
+  stocks = [
+	    		  { stockcode: 'INF', stockname: 'Infosys Technologies', price: 2020, percchange: 2.1, prevclose: 2011, volume: 30823232},
+		    	  { stockcode: 'SBI', stockname: 'State Bank of India', price: 281, percchange: -1, prevclose: 270, volume: 564938},
+			      { stockcode: 'RIL', stockname: 'Reliance', price: 923, percchange: 1.5, prevclose: 939, volume: 9847222} ,
+			      { stockcode: 'HDFC', stockname: 'HDFC Bank', price: 1830, percchange: 2.4, prevclose: 1820, volume: 54839333},
+			      { stockcode: 'SUN', stockname: 'Sun Pharma', price: 583, percchange: 6.2, prevclose: 590, volume: 877676 }
+      	   ];

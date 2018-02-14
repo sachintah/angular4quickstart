@@ -1,2 +1,4 @@
-# angular4quickstart
-Quick Start Project for Angular 4
+# Angular 4+ QS
+
+CLI based quick start for Angular 4+
+

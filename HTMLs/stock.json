@@ -1,0 +1,1 @@
+stock = { stockcode: 'INF', stockname: 'Infosys Technologies', price: 2020, percchange: 2.1, prevclose: 2011, volume: 30823232};
